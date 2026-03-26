@@ -1,0 +1,60 @@
+#hum{
+    justify-content: center;
+    justify-self: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family:'Trebuchet MS';
+    font-size: large;
+}
+
+#tituloso{
+    margin-top: 20px;
+    font-weight: bold;
+    font-family:'Trebuchet MS';
+    font-size: large;
+    justify-content: center;
+    justify-self: center;
+}
+
+.titulodois{
+    font-weight: bold;
+    font-family:'Trebuchet MS'; 
+    justify-content: center;
+    justify-self: center;
+}
+
+.titulotres{
+    font-weight: bold;
+    font-family:'Trebuchet MS';
+    justify-content: center;
+    justify-self: center;
+}
+
+.textinho{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.tituloquatro{
+    margin-top: 20px;
+    font-weight: bold;
+    font-family:'Trebuchet MS';
+    font-size: 35px;
+    justify-content: center;
+    justify-self: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.white{
+    font: white;
+}
+
+.justificado{
+    justify-self: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
