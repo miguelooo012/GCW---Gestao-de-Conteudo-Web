@@ -2,15 +2,15 @@
 Ganhar nota 
 
 <h2><p>Telas</p></h2>
-Index
-Heart Eyes
-Psicopata Americano
-Barbie: O Filme
+Index,
+Heart Eyes,
+Psicopata Americano,
+Barbie: O Filme,
 Alien, o oitavo passageiro
 
 
 <h2><p>Framework</p></h2>
-Materialize
+Materialize,
 LP
 
 <h2><p>Cronologia</p></h2>
